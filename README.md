@@ -52,7 +52,7 @@ Automation is key for streamlining your work processes, and [GitHub Actions](htt
 <details id=1>
 <summary><h2>Step 1: Create a workflow file</h2></summary>
 
-_Welcome to "Hello GitHub Actions"! :wave:_
+_Welcome to "Hello GitHub Actions"! :wave:_ 😄
 
 **What is _GitHub Actions_?**: GitHub Actions is a flexible way to automate nearly every aspect of your team's software workflow. You can automate testing, continuously deploy, review code, manage issues and pull requests, and much more. The best part, these workflows are stored as code in your repository and easily shared and reused across teams. To learn more, check out these resources:
 
@@ -188,7 +188,7 @@ In our action, we post a comment on the pull request using a [bash](https://en.w
 <details id=4>
 <summary><h2>Step 4: Merge your workflow file</h2></summary>
 
-_You're now able to write and run an Actions workflow! :sparkles:_
+_You're now able to write and run an Actions workflow! :sparkles:_ 
 
 Merge your changes so the action will be a part of the `main` branch.
 
